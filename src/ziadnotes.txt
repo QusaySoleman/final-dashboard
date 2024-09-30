@@ -1,0 +1,8 @@
+✅ziad (login, routing, compnents intergration, style fixes)
+
+✅nour (complaints)
+✅rama (sidebar,News)
+✅Nancy (events,decisions)
+✅Mouaed (about us)
+✅sedra (Services)
+

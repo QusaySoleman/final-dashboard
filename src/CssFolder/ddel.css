@@ -1,0 +1,46 @@
+/* by nour */
+
+.font-header {
+    font-size: 28px;
+  }
+  .text-align {
+    text-align: right;
+  }
+  .fs-14px {
+    font-size: 14px;
+  }
+  .text-justify {
+    text-align: justify;
+  }
+  .tajawal-light {
+    font-family: "Tajawal", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .color-main {
+    color: #112d4f !important;
+  }
+  .back-card {
+    background-color: #f8f0e5 !important;
+  }
+  .border-none {
+    border: none !important;
+  }
+  .rounded-meduim {
+    border-radius: 15px !important;
+  }
+  .image-shadow {
+    box-shadow: 0px 0px 10px #0000001a !important;
+  }
+  @media screen and (max-width: 768px) {
+    .font-header {
+      font-size: 20px !important;
+    }
+    .text-align {
+      text-align: center;
+    }
+    .margin-responsive-top {
+      margin-top: 15px !important;
+    }
+  }
+  
