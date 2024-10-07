@@ -1,0 +1,286 @@
+/* by nancy */
+.upload-box {
+    /* border: 2px dashed #ccc; */
+    /* padding: 20px; */
+    text-align: left;
+    position: relative;
+    /* width: 300px;
+    margin: 20px auto; */
+    /* width: 884px;
+    height: 142px; */
+    /* padding: 16px 16px 17px 253px; */
+    gap: 5px;
+    border-radius: 12px 12px 12px 12px;
+    border: 1px 1px 1px 1px;
+    opacity: 0px;
+    border: 1px solid var(--Echo-colors-Grey-300, #C9C9C9)
+}
+
+.upload-box label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.upload-box input[type="file"] {
+    display: none;
+}
+
+.upload-box .icon {
+    /* Group */
+
+position: absolute;
+width: 70px;
+height: 61.25px;
+left: calc(50% - 70px/2);
+top: calc(50% - 61.25px/2 - 24.38px);
+
+
+}
+
+.upload-box .title {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #333;
+}
+
+.image-preview {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.image-card {
+    width: 278px;
+    height: 109.27px;
+    text-align: left;
+   
+    border-radius: 16px 16px 16px 16px;
+    float: left; 
+
+}
+
+.image-card img {
+    width: 172px;
+    height: 109.27px;
+    gap: 0px;
+    border-radius: 16px 16px 16px 16px;
+    opacity: 0px;
+
+}
+
+.image-card .image-name {
+    font-size: 14px;
+    color: #333;
+}
+
+.gallery {
+    color: #DDDDDD;
+    width: 70px;
+    height: 61.25px;
+    top: 16px;
+    left: 407px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+.gallery-ink{
+    
+font-family: Tajawal;
+font-size: 14px;
+font-weight: 400;
+line-height: 16px;
+text-align: center;
+color:  #4E4E4E;
+
+
+}
+.styled-button {
+    width: 300px;
+    height: 46px;
+    padding: 10px 16px;
+    gap: 10px;
+    border-radius: 12px 0px 0px 0px;
+    opacity: 0;
+    background: #1A4870;
+    box-shadow: 0px 3px 3px 0px #112D4F3D, 0px 11px 11px 1px #112D4F3D;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  /* Form */
+.form {
+    box-sizing: border-box;
+    
+  }
+  
+  
+  .Auto-layout {
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+  padding: 24px 24px 24px 24px;
+  gap: 32px 32px 32px 32px;
+  /* البوزيشن الأبسولوت زياد لغاه عم يضرب مع السايدبار */
+  /* position: absolute; */
+  width: 1000px;
+  height: 640px;
+  left: calc(50% - 1000px/2);
+  top: 65px;
+  
+  
+  
+  
+  
+  }
+  .Frame {
+    
+    flex-direction: column;
+    align-items: flex-end;
+    /* padding: 0px;
+    gap: 24px; */
+    
+    /* width: 952px;
+    height: 518px; */
+    
+    
+    /* Inside auto layout */
+   
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+    }
+  
+  .shadow {
+    box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.1), 0px 2px 4px rgba(0, 0, 0, 0.16);
+   
+  border-radius: 16px 16px 16px 16px;
+  border: 1px 1px 1px 1px;
+  
+  
+  
+  
+  
+  }
+  
+  .head {
+  
+  
+  
+  
+  
+    height: 38px;
+  
+  
+  
+    font-family: Tajawal;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 38.4px;
+  
+  
+    color: #1A4870;
+  
+  
+  
+  
+  
+  
+  }
+  
+  .card {
+    /* width: 408px;
+    height: 276px;
+    padding: 16px 0px 0px 0px;
+    gap: 10px;
+    border-radius: 24px 0px 0px 0px;
+    opacity: 0px; */ 
+    width: 278px;
+  height: 109.27px;
+  right: 16px;
+  gap: 0px;
+  border-radius: 16px 0px 0px 0px;
+  opacity: 0px;
+  
+    box-shadow: 0px 2px 4px 0px #00000029, 0px 12px 24px 0px #0000001A;
+    background: var(--Surface, #FDFDFD);
+    position: relative; /* Ensure the card stays within the container */
+  }
+  
+  .bord {
+    /* width: 50px; */
+    /* height: 26px; */
+    top: 10px;
+    right: 592px;
+    /* gap: 0px;
+    opacity: 0px; */
+   
+  
+  font-weight: 500;
+  line-height: 25.6px;
+  text-align: center;
+  
+    
+  }
+  
+  .styled-button {
+    width: 300px;
+    height: 46px;
+    padding: 10px 16px;
+    gap: 10px;
+    border-radius: 12px 0px 0px 0px;
+    opacity: 0;
+    background: #1A4870;
+    box-shadow: 0px 3px 3px 0px #112D4F3D, 0px 11px 11px 1px #112D4F3D;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .col {
+    /* هاد اللون كان ابيض ، زياد غيرو لأنو صار يعمل الكتابة بيضا غير مرئية بغير كمبوننتس */
+    color: black;
+  
+  }
+  
+  .btn-outline-secondary {
+    color: #1A4870;
+    border-color: #1A4870;
+  }
+  
+  .btn-outline-secondary:hover,
+  .btn-outline-secondary:focus,
+  .btn-outline-secondary:active {
+    background-color: #F8F0E5;
+    color: #1A4870;
+    border-color: #1A4870;
+  }
+  
+  .btn-outline-secondary:focus {
+  
+    background-color: #F8F0E5;
+  }
+  .drop{
+    width: 198px;
+    height: 46px;
+    left: 273px;
+    padding: 10px 16px;
+    gap: 0px;
+    border-radius: 12px 0px 0px 0px;
+    border: 1px solid var(--Echo-colors-Grey-300, #C9C9C9);
+    justify-content: space-between;
+    opacity: 0;
+  
+  }
+  .custom-modal .modal-dialog {
+    width: 45%; 
+    max-width: none;
+   /* Remove the default max-width */
+  }
+  
+  .custom-modal .modal-content {
+    height: 78vh; 
+  }
+  

@@ -1,0 +1,198 @@
+/* // by sedra */
+.services-headerBtnTwo {
+  width: Fixed (250px) px;
+  height: Hug (49px) px;
+  padding: 10px 80px 10px 80px;
+  gap: 32px;
+  border-radius: 10px 10px 10px 10px;
+  border: 1px 1px 1px 1px;
+  opacity: 0px;
+  border: 1px solid #c9c9c9;
+  box-shadow: 0px 4px 4px 0px #0000001a;
+  margin-right: 40px;
+  padding-left: 49px;
+  padding-right: 49.5px;
+}
+.services-headerBtnTwoText {
+  width: 152px;
+  height: 29px;
+  gap: 0px;
+  opacity: 0px;
+  font: medium;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28.8px;
+  text-align: right;
+  color: #1a4870;
+}
+.services-custom-modal2 .modal-content {
+  width: 572px;
+  height: 541px;
+  gap: 0px;
+  border-radius: 16px 16px 16px 16px;
+  border: 1px 1px 1px 1px;
+  opacity: 0px;
+  background: #ffffff;
+  border: 1px solid #f3f3f3;
+  box-shadow: 0px 12px 24px 0px #0000001a;
+}
+.services-modalHeader2 {
+  width: 216px;
+  height: 38px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  left: 178px;
+  gap: 0px;
+  opacity: 0px;
+  font: bold;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 38.4px;
+  text-align: right;
+  color: #1a4870;
+  margin: auto;
+}
+.services-modalForm {
+  width: Fixed (524px) px;
+  height: Hug (348px) px;
+  padding-bottom: 0px;
+  left: 24px;
+  gap: 24px;
+  opacity: 0px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.services-form-group {
+  width: Fixed (524px) px;
+  height: Fixed (69px) px;
+  padding: 20px 32px 20px 32px;
+  gap: 0px;
+  border-radius: 10px 10px 10px 10px;
+  border: 1px 1px 1px 1px;
+
+  opacity: 0px;
+  background: #ffffff;
+  border: 1px solid var(--Echo-colors-Grey-300, #c9c9c9);
+  box-shadow: 0px 4px 4px 0px #0000001a;
+}
+.services-deleteBtn {
+  width: 29px;
+  height: 22px;
+  gap: 0px;
+  opacity: 0px;
+  font: medium;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 22.4px;
+  text-align: right;
+  color: #f71313;
+  text-align: left;
+  background: #ffffff;
+  border: none;
+}
+.services-inputCol {
+  display: flex;
+  justify-content: flex-end;
+}
+.services-form-control2 {
+  width: Fixed (309px) px;
+  height: Hug (37px) px;
+  padding: 4px 8px 4px 8px;
+  gap: 10px;
+  border-radius: 7px 7px 7px 7px;
+  border: 1px 1px 1px 1px;
+  opacity: 0px;
+  background-color: #f6f6f6;
+  border: 1px solid #f3f3f3;
+  text-align: right;
+  font: medium;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 28.8px;
+  text-align: right;
+  color: #000000;
+}
+.services-lastForm-group {
+  width: Fixed (524px) px;
+  height: Fixed (69px) px;
+  padding: 20px 32px 20px 32px;
+  gap: 0px;
+  border-radius: 10px 10px 10px 10px;
+  border: 1px 1px 1px 1px;
+  margin-bottom: 0px;
+  opacity: 0px;
+  background: #ffffff;
+  border: 1px solid var(--Echo-colors-Grey-300, #c9c9c9);
+  box-shadow: 0px 4px 4px 0px #0000001a;
+}
+
+.services-SecGroup30 {
+  direction: rtl;
+  width: 524px;
+  height: 46px;
+  top: 471px;
+  left: 24px;
+  gap: 0px;
+  border-radius: 12px 12px 12px 12px;
+  border: 1px 1px 1px 1px;
+  opacity: 0px;
+  padding: 0px;
+  margin-top: 0px;
+  margin-right: 24px;
+  margin-left: 24px;
+  margin-bottom: 24px;
+}
+.services-SecFrame10 {
+  width: Fixed (250px) px;
+  height: Fixed (46px) px;
+  top: 471px;
+  left: 298px;
+  padding: 10px 16px 10px 16px;
+  gap: 10px;
+  border-radius: 12px 12px 12px 12px;
+  opacity: 0px;
+  background: #1a4870;
+  box-shadow: 0px 11px 11px 1px #112d4f3d;
+  padding-left: 65px;
+  padding-right: 65px;
+}
+.services-SecFrame10Text {
+  width: 120px;
+  height: 29px;
+  gap: 0px;
+  opacity: 0px;
+  font: bold;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28.8px;
+  text-align: right;
+  color: #ffffff;
+}
+.services-SecFrame11 {
+  width: Fixed (250px) px;
+  height: Fixed (46px) px;
+  top: 471px;
+  left: 24px;
+  padding: 10px 16px 10px 16px;
+  gap: 10px;
+  border-radius: 12px 12px 12px 12px;
+  border: 1px 1px 1px 1px;
+  opacity: 0px;
+  border: 1px solid #f71313;
+  box-shadow: 0px 3px 3px 0px #112d4f3d;
+  background-color: #ffffff;
+  padding-left: 104.5px;
+  padding-right: 104.5px;
+}
+.services-SecFrame11Text {
+  width: 41px;
+  height: 29px;
+  gap: 0px;
+  opacity: 0px;
+  font: bold;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 28.8px;
+  text-align: right;
+  color: #ff0000;
+}
