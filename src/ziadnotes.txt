@@ -1,0 +1,37 @@
+✅ziad (login, routing, compnents intergration, style fixes)
+
+✅nour (complaints)
+✅rama (sidebar,News)
+✅Nancy (events,decisions)
+✅Mouaed (about us)
+✅sedra (Services)
+
+
+
+------
+*login{
+        affected files: 
+        -admin login.js
+}
+
+*routing{
+        affected files:
+            -app.js: fucking empty
+            -sidebar.js:
+                added outlet compo
+                restructuerd its layout to be flex
+
+            -index.js: i've but the routing logic in it
+}
+
+
+*logout{
+    sidebar.js: add handleLogout function 
+}
+
+*TOKEN EXPORTING {
+    some edits on sidebar.js and index.js to make a exampular compo for token cosiuming "UsingTokenExample.js"
+}
+كيف نعمل الراوتينغ؟
+بتحط اندكس جي اس الباثس والالمنتس
+وبالروت المنت يلي هو السايد بار بتحط فيه اوتليت يلي حينعرض ضمنها باقي الكمبوننتس
