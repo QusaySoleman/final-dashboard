@@ -1,0 +1,137 @@
+.custom-container-fluid {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.font-header {
+  font-size: 24px;
+}
+.text-align {
+  text-align: right;
+}
+.fw-500 {
+  font-weight: 500;
+}
+.active-button {
+  background-color: #1a4870;
+  border-radius: 10px;
+  border: none;
+  color: #f8f0e5;
+  font-weight: 500px;
+  width: 200px;
+  padding: 5px 0px 5px 0px;
+}
+.save-button {
+  background-color: #1a4870;
+  border-radius: 10px;
+  border: none;
+  color: #f8f0e5;
+  font-weight: 500px;
+  width: 200px;
+  padding: 5px 0px 5px 0px;
+}
+.save-button:focus {
+  background-color: #456f94;
+}
+.Choose-button {
+  background-color: #f8f0e5;
+  border-radius: 10px;
+  border: none;
+  color: #1a4870;
+  font-weight: 500px;
+  width: 200px;
+  padding: 5px 0px 5px 0px;
+  border: 1px #0000001a solid;
+}
+.disabled-button {
+  background-color: white;
+  border-radius: 10px;
+  border: none;
+  color: black;
+  font-weight: 500px;
+  width: 200px;
+  padding: 5px 0px 5px 0px;
+}
+.cancel-button {
+  font-weight: 500px;
+  width: 200px;
+  background-color: white;
+  color: red;
+  border: 1px red solid;
+  border-radius: 10px;
+  padding: 5px 0px 5px 0px;
+}
+.cancel-button:focus {
+  background-color: #f7f6f6;
+}
+.delete-button {
+  font-weight: 500px;
+  width: 200px;
+  background-color: red;
+  color: white;
+  border: 1px red solid;
+  border-radius: 10px;
+  padding: 5px 0px 5px 0px;
+}
+.delete-button:focus {
+  background-color: #ff280a;
+}
+.main-shadow {
+  box-shadow: 0px 2px 4px #112d4f3d !important;
+}
+.font-tab {
+  font-size: 16px;
+}
+.flex {
+  display: flex;
+}
+th {
+  background-color: #f8f0e5 !important;
+  color: #1a4870 !important;
+}
+a {
+  color: #1a4870;
+  cursor: pointer;
+}
+.modal-header .btn-close {
+  position: absolute;
+  right: 0px;
+  padding-right: 35px !important;
+  margin-top: 5px !important;
+  --bs-btn-close-focus-shadow: none !important;
+}
+.modal {
+  --bs-modal-header-border-color: none !important;
+  --bs-modal-footer-border-color: none !important;
+}
+.card-title-color {
+  color: #4e4e4e;
+}
+td {
+  font-weight: normal !important;
+}
+@media screen and (max-width: 768px) {
+  .font-header {
+    font-size: 20px !important;
+  }
+  .text-align {
+    text-align: center;
+  }
+  .font-tab {
+    font-size: 10px;
+  }
+  li {
+    width: 30px !important;
+  }
+}
+
+.css-kff4q3-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected:hover {
+  background-color: #1a4870 !important;
+  color: white !important;
+}
+.css-kff4q3-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected {
+  background-color: #1a4870 !important;
+  color: white !important;
+}

@@ -1,0 +1,356 @@
+.decisions-container {
+  width: 1920px;
+  height: 1080px;
+  top: 776px;
+  left: 9731px;
+  gap: 0px;
+  
+  color: #ffffff;
+  font-family: Tajawal;
+}
+.decisions-Group21 {
+  width: 1125px;
+  height: 103px;
+  margin-top: 65px;
+  margin-right: 180px;
+  gap: 0px;
+  
+}
+.decisions-Title {
+  width: 152px;
+  height: 38px;
+  top: 165px;
+  left: 1328px;
+  gap: 0px;
+
+  font: bold;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 38.4px;
+  text-align: right;
+  color: #000000;
+  
+}
+.decisions-Btns {
+  width: Fixed (1125px) px;
+  height: Hug (49px) px;
+  top: 119px;
+  left: 355px;
+  gap: 40px;
+  
+}
+.decisions-Group22 {
+  width: 100%;
+  height: auto;
+  margin-right: 180px;
+  
+ /* background-color: red; */
+  }
+.decisions-Title2 {
+  
+ 
+  font: bold;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 38.4px;
+  /* text-align: start; */
+  color: #000000;
+  /* background-color: red; */
+  /* الفعاليات السابقة */
+
+/* position: absolute; */
+width: 193px;
+height: 38px;
+margin-top: 65px;
+/* margin-right: 50px; */
+/* margin-right: 180px; */
+
+}
+
+
+/* CurrentDecisions*/
+.decisions-tabsBtns {
+ 
+
+  top: 800px;
+  margin-right: 570.5px;
+  margin-bottom: 36px;
+}
+.decisions-custom-active-btn {
+  width: 170px;
+  height: 52px;
+  padding: 8px 60px 8px 60px;
+  gap: 10px;
+  border-radius: 12px 12px 12px 12px;
+  border: 1px;
+  background: #f8f0e5;
+  border: 1px solid #1a4870;
+  box-shadow: 0px 4px 4px 0px #0000001a;
+  font: medium;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25.6px;
+  text-align: right;
+  color: #1a4870;
+  margin-right: 10px;
+  
+  
+}
+.decisions-custom-inactive-btn {
+  width: 170px;
+  height: 52px;
+  padding: 8px 60px 8px 60px;
+  gap: 10px;
+  border-radius: 12px 12px 12px 12px;
+  border: 1px 1px 1px 1px;
+ 
+  background: #ffffff;
+  border: 1px solid var(--Echo-colors-Grey-300, #c9c9c9);
+  box-shadow: 0px 4px 4px 0px #0000001a;
+  font: medium;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25.6px;
+  text-align: right;
+  color: #4e4e4e;
+  margin-right: 10px;
+}
+
+.decisions-col {
+  direction: rtl;
+position: relative; /* Changed from absolute to relative */
+ 
+  width: 80%;
+  height: 256px;
+
+  padding: 16px 16px 16px 16px;
+  gap: 10px;
+ 
+
+
+ 
+  /* margin-top: 15px; */
+  /* margin-right: 200px; */
+
+  
+}
+/* .decisions-card {
+  border: none;
+}
+.decisions-cardRow {
+  border: none;
+}
+.decisions-CardImg {
+  width: 350px;
+  height: 324px;
+  border-radius: 16px 16px 16px 16px;
+  margin-left: 0px;
+}
+.decisions-Box {
+  direction: rtl;
+  width: 1016px;
+  height: 224px;
+  gap: 16px;
+  opacity: 1px;
+}
+.decisions-CardTitle {
+  width: 489px;
+  height: 32px;
+  gap: 0px;
+  opacity: 1px;
+  font: bold;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 32px;
+  text-align: right;
+  color: #112d4f;
+  margin-left: 327px;
+}
+
+.decisions-cardBtn {
+  width: 92px;
+  height: 40px;
+  left: 108px;
+  padding: 10px 10px 10px 10px;
+  gap: 10px;
+  border-radius: 8px;
+  opacity: 1px;
+  background: #1a4870;
+  box-shadow: 0px 2px 4px 0px #00000029;
+
+  font: medium;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25.6px;
+  text-align: right;
+  color: #ffffff;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.decisions-cardBtn2 {
+  width: 92px;
+  height: 40px;
+  padding: 10px 10px 10px 10px;
+  gap: 10px;
+  border-radius: 8px;
+  border: 1px;
+  opacity: 1px;
+  background: #ffffff;
+  border: 1px solid #ff0000;
+  box-shadow: 0px 2px 4px 0px #00000029;
+  font: medium;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25.6px;
+  text-align: right;
+  color: #ff0000;
+  padding-left: 29.5px;
+  padding-right: 29.5px;
+  margin-right: 16px;
+}
+
+.decisionsDate {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25.6px;
+  text-align: right;
+  color: #4e4e4e;
+  margin-right: 20px;
+}
+.decisions-CardText {
+  width: 1016px;
+  height: 104px;
+ 
+  opacity: 1px;
+  font: medium;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 25.6px;
+  text-align: right;
+  color: #080808;
+  margin-right: 10px;
+} */
+/* General styles for the card */
+/* General styles for the card */
+.decisions-card {
+  display: flex;
+  flex-direction: row-reverse; /* Image on the right */
+  justify-content: flex-start;
+  align-items: center;
+  padding: 16px;
+  gap: 10px;
+  background: #FDFDFD;
+  box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.1), 0px 2px 4px rgba(0, 0, 0, 0.16);
+  border-radius: 24px;
+  position: relative; /* To position buttons inside the card */
+  width: 100%;
+  height: 276px;
+}
+
+/* Styles for the image */
+.decisions-CardImg {
+  width: 350px;
+  height: 224px;
+  border-radius: 16px;
+  margin-left: 0px;
+  position: absolute; 
+  justify-content: flex-start;
+  top: 16px;
+  right: 16px;
+}
+
+/* Styles for the frame */
+.decisions-Box {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 16px;
+  width: 1408px;
+  height: 256px;
+}
+
+/* Styles for the header and buttons */
+.decisions-CardTitle {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 160%;
+  color: #112D4F;
+  position: absolute; 
+  top: 16px;
+  right: 400px;
+}
+
+.decisions-cardBtn2, .decisions-cardBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  gap: 10px;
+  width: 92px;
+  height: 40px;
+  border-radius: 8px;
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 160%;
+  text-align: left;
+  position: absolute; /* To position buttons inside the card */
+}
+.decisions-cardBtn {
+  background: #1A4870;
+  color: #FFFFFF;
+  box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.1), 0px 2px 4px rgba(0, 0, 0, 0.16);
+  left: 120px; /* Adjust as needed */
+}
+
+.decisions-cardBtn2 {
+  background: #FFFFFF;
+  color: #FF0000;
+  border: 1px solid #FF0000;
+  box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.1), 0px 2px 4px rgba(0, 0, 0, 0.16);
+  left: 16px; 
+}
+
+/* Styles for the date and description */
+.decisions-CardText {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 160%;
+  color: #080808;
+  position: absolute; 
+  top: 120px;
+  right: 400px;
+}
+
+.decisionsDate {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 160%;
+  color: #080808;
+  position: absolute; 
+  top: 60px;
+  right: 400px;
+}
+
+.decisionsid {
+  font-family: 'Tajawal';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 160%;
+  color: #080808;
+  position: absolute; 
+  top: 80px;
+  right: 400px;
+}
+
+
+
