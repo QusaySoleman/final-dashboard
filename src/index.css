@@ -1,0 +1,36 @@
+* {
+direction: rtl;
+
+
+}
+body{
+    font-family: Tajwal, sans-serif;
+
+}
+
+.blue_h2{
+    font-family: Tajawal;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 38.4px;
+    text-align: center;
+    /* color: #1A4870; */
+    color:  #1a4870;
+    margin-bottom: 30px;
+}
+
+.black_bold_h2{
+    font-family: Tajawal;
+     font: bold;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 38.4px;
+    text-align: right;
+    color: #000000;
+}
+@font-face {
+    font-family: 'Andalus';
+    src: url('../public/Andalus.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
