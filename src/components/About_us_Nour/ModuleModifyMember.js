@@ -96,6 +96,7 @@ function ModuleModifyMember({ show, onHide, member, refreshOnModifyMember }) {
       size="lg"
       aria-labelledby="contained-modal-title-vcenter"
       centered
+      className="font-tajwal"
     >
       <Modal.Header closeButton>
         <div className="popup-title">تعديل العضو</div>
