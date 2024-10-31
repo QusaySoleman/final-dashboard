@@ -1,0 +1,108 @@
+/* by rama */
+.content{
+width: 1560px;
+height: 1082px;
+left: 0px;
+bottom: 0px;
+
+background: #FFFFFF;
+
+}
+.form-news{
+    width: 1000px;
+    /* hight edited by ziad to wrap all elemnts within it  */
+    height: auto; 
+
+    padding: 24px;
+    gap:90px;
+    top: 65px;
+    left: 280px;
+   
+    right: 200px;
+    border: 1px;
+    border-radius: 16px;
+    left: calc(50% - 1000px/2);
+    background: #FFFFFF;
+    border: 1px solid #F3F3F3;
+    box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.1), 0px 2px 4px rgba(0, 0, 0, 0.16);
+    border-radius: 16px;
+    box-sizing: border-box;
+    display:inline-flexbox;
+    box-shadow: 0px 2px 4px 0px #00000029;
+    box-shadow: 0px 12px 24px 0px #0000001A;
+    position: relative;
+ 
+
+}
+.form-news h2 {
+   
+    font-family: Tajawal;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 38.4px;
+    text-align:center;
+    color: #1A4870;
+    margin-bottom: 30px;
+}
+.news-card {
+    padding: 16px;
+    gap: 100px;
+    width: 1408px ;
+    height: 256px;
+    background: #FDFDFD;
+    box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.1), 0px 2px 4px rgba(0, 0, 0, 0.16);
+    border-radius: 24px;
+    margin-top:50px;
+    right: 50px;
+    position:relative;
+
+  }
+  .news-card-header{
+  text-align:end;
+  align-items: end;
+  margin-bottom:-38px;
+  position: relative;
+  } 
+  .paragragh{
+
+font-family: Tajawal;
+font-size: 16px;
+font-weight: 500;
+line-height: 25.6px;
+text-align: justified;
+
+  }
+.btn1{
+    background-color: #1A4870;
+}
+.custom-gap{
+    gap:48px;
+  border-radius: 12px;
+  width: Fixed (300px)px;
+  height: Fixed (46px)px;
+  padding: 10px 16px 10px 16px;
+  gap: 10px;
+
+
+
+  opacity: 0px;
+
+}
+.colors{
+    color: #1A4870;
+}
+.line{
+    margin-bottom: -10px;
+}
+.news-card img {
+    width: 350px;
+    height: 224px;
+    border-radius: 16px;
+ 
+   }
+   .form-control {
+    text-align: right;
+  }
+    
+
+
